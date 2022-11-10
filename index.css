@@ -33,7 +33,7 @@
     background-color: rgb(64, 83, 168);
 }
 #título{
-    background: url(@_FASE-VERDE_OSASCO-850x560.jpg) rgba(256, 256, 256, 0.5);
+    background: url(Imagens/@_FASE-VERDE_OSASCO-850x560.jpg) rgba(256, 256, 256, 0.5);
     background-size: cover;
     height: 40em;
     color: black;
